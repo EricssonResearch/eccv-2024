@@ -38,7 +38,7 @@ Run ``benchmark`` in the ``_build`` folder. Here is an example output
 $ ./_build/benchmark 
 Running: 100000 times
 Mean execution time (Guan et al. (LS)): 21686 ns
-Mean execution time (solver_imu_planar_sift): 348 ns
+Mean execution time (solver_valtonen_ornhag_eccv_2024): 348 ns
 Mean execution time (solver_choi_kim_2018 2pt): 453 ns
 Mean execution time (Guan et al. (CS)): 1387 ns
 ```
